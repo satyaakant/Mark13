@@ -1,0 +1,45 @@
+*{
+   margin: 0%;
+    color: #57da8f;
+    text-align: center;
+}
+main{
+    background-color: #2e3643;
+    height: max-content;
+    padding: auto;
+}
+.footer{
+    background-color:#57da8f;
+    padding: 1rem 1rem;
+    border-top-left-radius: 0.5rem;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 346px;
+   
+}
+.footer .link{
+    color: white;
+}
+.inline-list{
+    display: inline;
+ 
+}
+.git{
+    width: 40px;
+    border-radius: 31px;
+    padding: 10px;
+}
+body{
+    height: 600px;
+}
+input{
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+}
+button{
+    color:black;
+    border-radius: 0.5rem;
+    border: 1px solid #57da8f;
+    padding: 10px;
+}
